@@ -5,6 +5,7 @@ import java.util.List;
 
 import jakarta.persistence.*;
 
+
 @Entity
 @Table(name = "categories")
 @NamedQuery(name = "Category.findAll", query = "SELECT c FROM Category c")
