@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/1/.m2/repository/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/jsp-api.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/websocket-api.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina-ssi.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/el-api.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-de.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.1/jakarta.inject-api-2.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/hibernate/validator/hibernate-validator/8.0.1.Final/hibernate-validator-8.0.1.Final.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/jasper-el.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/bin/commons-daemon.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-websocket.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/hibernate/common/hibernate-commons-annotations/7.0.1.Final/hibernate-commons-annotations-7.0.1.Final.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-jni.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-fr.jar"/>
+  <path value="C:/Users/1/.m2/repository/io/smallrye/jandex/3.2.0/jandex-3.2.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina-tribes.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/jakartaee-migration-1.0.1-shaded.jar"/>
+  <path value="C:/Users/1/.m2/repository/net/bytebuddy/byte-buddy/1.14.18/byte-buddy-1.14.18.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-ja.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/jaxb-core/4.0.2/jaxb-core-4.0.2.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/jaxb-runtime/4.0.2/jaxb-runtime-4.0.2.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/servlet-api.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/9.4.1.jre16/mssql-jdbc-9.4.1.jre16.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/activation/jakarta.activation-api/2.1.0/jakarta.activation-api-2.1.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-util-scan.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-pt-BR.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-ko.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.1/jakarta.transaction-api-2.0.1.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-api.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.1.0/jakarta.persistence-api-3.1.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/validation/jakarta.validation-api/3.1.0/jakarta.validation-api-3.1.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina-ant.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/annotations-api.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina-storeconfig.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/hibernate/orm/hibernate-core/6.6.1.Final/hibernate-core-6.6.1.Final.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/ecj-4.20.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/txw2/4.0.2/txw2-4.0.2.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_2.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/jaspic-api.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-jdbc.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/bin/bootstrap.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/eclipse/angus/angus-activation/2.0.0/angus-activation-2.0.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-util.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-dbcp.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/bin/tomcat-juli.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/catalina-ha.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/jasper.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/4.0.0/jakarta.xml.bind-api-4.0.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-coyote.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/sun/istack/istack-commons-runtime/4.1.1/istack-commons-runtime-4.1.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-es.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/jboss/logging/jboss-logging/3.5.0.Final/jboss-logging-3.5.0.Final.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/antlr/antlr4-runtime/4.13.0/antlr4-runtime-4.13.0.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-zh-CN.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-ru.jar"/>
+  <path value="C:/tomcat/apache-tomcat-10.0.23/lib/tomcat-i18n-cs.jar"/>
+ </paths>
+ <validation>
+  <el>
+   <linked-el length="18" name="%0" offset="1543" path="%1"/>
+   <linked-el length="62" name="%0" offset="1810" path="%1"/>
+   <linked-el length="64" name="%0" offset="1903" path="%1"/>
+   <linked-el length="21" name="%0" offset="513" path="%2"/>
+   <linked-el length="42" name="%3" offset="1193" path="%1"/>
+   <linked-el length="30" name="%3" offset="1257" path="%1"/>
+   <linked-el length="17" name="%3" offset="1406" path="%1"/>
+   <linked-el length="42" name="%3" offset="1340" path="%1"/>
+   <linked-el length="30" name="%3" offset="948" path="%2"/>
+   <linked-el length="42" name="%3" offset="1027" path="%2"/>
+   <linked-el length="17" name="%3" offset="1091" path="%2"/>
+   <linked-el length="42" name="%3" offset="886" path="%2"/>
+   <linked-el length="22" name="%4" offset="1706" path="%1"/>
+   <linked-el length="42" name="%4" offset="1193" path="%1"/>
+   <linked-el length="30" name="%4" offset="1257" path="%1"/>
+   <linked-el length="21" name="%4" offset="1576" path="%1"/>
+   <linked-el length="18" name="%4" offset="1543" path="%1"/>
+   <linked-el length="42" name="%4" offset="1027" path="%2"/>
+   <linked-el length="17" name="%4" offset="1091" path="%2"/>
+   <linked-el length="22" name="%4" offset="767" path="%2"/>
+   <linked-el length="16" name="%4" offset="1538" path="%2"/>
+   <linked-el length="21" name="%4" offset="513" path="%2"/>
+   <linked-el length="22" name="%4" offset="1625" path="%1"/>
+   <linked-el length="17" name="%4" offset="1406" path="%1"/>
+   <linked-el length="42" name="%4" offset="1340" path="%1"/>
+   <linked-el length="30" name="%4" offset="948" path="%2"/>
+   <linked-el length="62" name="%4" offset="1810" path="%1"/>
+   <linked-el length="42" name="%4" offset="886" path="%2"/>
+   <linked-el length="64" name="%4" offset="1903" path="%1"/>
+   <linked-el length="59" name="%5" offset="284" path="%2"/>
+   <linked-el length="59" name="%5" offset="653" path="%6"/>
+   <linked-el length="55" name="%5" offset="697" path="%1"/>
+   <linked-el length="14" name="%7" offset="1146" path="%1"/>
+   <linked-el length="11" name="%8" offset="1191" path="%2"/>
+   <linked-el length="12" name="%8" offset="1508" path="%1"/>
+   <linked-el length="59" name="%9" offset="284" path="%2"/>
+   <linked-el length="59" name="%9" offset="653" path="%6"/>
+   <linked-el length="55" name="%9" offset="697" path="%1"/>
+   <linked-el length="14" name="%10" offset="1146" path="%1"/>
+   <linked-el length="8" name="%11" offset="3381" path="%12"/>
+   <linked-el length="8" name="%11" offset="3276" path="%13"/>
+   <linked-el length="18" name="%11" offset="274" path="%14"/>
+   <linked-el length="18" name="%11" offset="2131" path="%15"/>
+   <linked-el length="18" name="%11" offset="3274" path="%12"/>
+   <linked-el length="18" name="%11" offset="3169" path="%13"/>
+   <linked-el length="18" name="%11" offset="2164" path="%16"/>
+   <linked-el length="8" name="%11" offset="2238" path="%15"/>
+   <linked-el length="8" name="%11" offset="382" path="%14"/>
+   <linked-el length="8" name="%11" offset="2262" path="%16"/>
+   <linked-el length="14" name="%17" offset="1086" path="%1"/>
+   <linked-el length="21" name="%18" offset="1576" path="%1"/>
+   <linked-el length="22" name="%18" offset="767" path="%2"/>
+   <linked-el length="22" name="%19" offset="1706" path="%1"/>
+   <linked-el length="22" name="%19" offset="1625" path="%1"/>
+   <linked-el length="16" name="%19" offset="1538" path="%2"/>
+   <linked-el length="59" name="%20" offset="284" path="%2"/>
+   <linked-el length="59" name="%20" offset="653" path="%6"/>
+   <linked-el length="55" name="%20" offset="697" path="%1"/>
+  </el>
+ </validation>
+ <aliases>
+  <alias path="cate.categoryId" value="%0"/>
+  <alias path="cate.images" value="%3"/>
+  <alias path="cate" value="%4"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/viewCustomer/login.jsp" value="%14"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/viewCustomer/ChangePass.jsp" value="%12"/>
+  <alias path="pageContext.request" value="%5"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/viewCustomer/informationCustommer.jsp" value="%16"/>
+  <alias path="STT.index" value="%7"/>
+  <alias path="imgUrl" value="%8"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/viewCustomer/register.jsp" value="%15"/>
+  <alias path="pageContext" value="%9"/>
+  <alias path="STT" value="%10"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/views/admin/category-edit.jsp" value="%2"/>
+  <alias path="alert" value="%11"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/viewCustomer/forgetPass.jsp" value="%13"/>
+  <alias path="listcase" value="%17"/>
+  <alias path="cate.categoryName" value="%18"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/views/admin/category-list.jsp" value="%1"/>
+  <alias path="cate.status" value="%19"/>
+  <alias
+   path="/baiTap_tuan6_CRUD_API/src/main/webapp/views/admin/category-add.jsp" value="%6"/>
+  <alias path="pageContext.request.contextPath" value="%20"/>
+ </aliases>
+ <includes/>
+ <uris>
+  <uri value="http://java.sun.com/jsp/jstl/core">
+   <prefix>c</prefix>
+  </uri>
+ </uris>
+</kb-project>

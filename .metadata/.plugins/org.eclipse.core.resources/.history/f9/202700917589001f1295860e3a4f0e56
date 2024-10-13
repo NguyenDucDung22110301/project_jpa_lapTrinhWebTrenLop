@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns="https://jakarta.ee/xml/ns/jakartaee"
+	xmlns:web="http://xmlns.jcp.org/xml/ns/javaee"
+	xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd"
+	version="5.0">
+	<filter>
+		<filter-name>sitemesh</filter-name>
+		<filter-class>org.sitemesh.config.ConfigurableSiteMeshFilter</filter-class>
+	</filter>
+	<filter-mapping>
+		<filter-name>sitemesh</filter-name>
+		<url-pattern>/*</url-pattern>
+	</filter-mapping>
+	<servlet>
+		<description></description>
+		<display-name>uploadFile</display-name>
+		<servlet-name>uploadFile</servlet-name>
+		<servlet-class>controller.uploadFile</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>uploadFile</servlet-name>
+		<url-pattern>/uploadFile</url-pattern>
+	</servlet-mapping>
+	<servlet>
+		<description></description>
+		<display-name>changeInfor</display-name>
+		<servlet-name>changeInfor</servlet-name>
+		<servlet-class>controller.changeInfor</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>changeInfor</servlet-name>
+		<url-pattern>/changeInfor</url-pattern>
+	</servlet-mapping>
+	<session-config>
+		<tracking-mode>COOKIE</tracking-mode>
+	</session-config>
+</web-app>

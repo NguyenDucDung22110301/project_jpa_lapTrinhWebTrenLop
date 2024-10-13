@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kb-project>
+ <depends-on-projects/>
+ <used-by-projects/>
+ <paths>
+  <path value="C:/Users/1/.m2/repository/commons-io/commons-io/2.17.0/commons-io-2.17.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/jboss/logging/jboss-logging/3.4.3.Final/jboss-logging-3.4.3.Final.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/sun/activation/jakarta.activation/2.0.1/jakarta.activation-2.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/transaction/jakarta.transaction-api/2.0.0/jakarta.transaction-api-2.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/inject/jakarta.inject-api/2.0.0/jakarta.inject-api-2.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/el/jakarta.el-api/5.0.1/jakarta.el-api-5.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/validation/jakarta.validation-api/3.1.0/jakarta.validation-api-3.1.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/sun/istack/istack-commons-runtime/4.0.1/istack-commons-runtime-4.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jsp/jakarta.servlet.jsp-api/4.0.0/jakarta.servlet.jsp-api-4.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/jakarta.servlet.jsp.jstl-api-3.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/hibernate/common/hibernate-commons-annotations/6.0.0.CR1/hibernate-commons-annotations-6.0.0.CR1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/xml/bind/jakarta.xml.bind-api/3.0.1/jakarta.xml.bind-api-3.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/google/protobuf/protobuf-java/3.21.9/protobuf-java-3.21.9.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.1/jakarta.servlet.jsp.jstl-3.0.1.jar">
+   <libraries>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c-1_2.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/c.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fmt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/fn.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/permittedtaglibs.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/scriptfree.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/sql.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0-rt.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_0.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x-1_1.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+    <library class="tld">
+     <id class="model-object"
+      path="FileSystems/lib-jakarta.servlet.jsp.jstl-3.0.1.jar/meta-inf/x.tld" project="baiTap_tuan6_CRUD_API"/>
+    </library>
+   </libraries>
+  </path>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/txw2/3.0.2/txw2-3.0.2.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/hibernate/orm/hibernate-core/6.0.0.Final/hibernate-core-6.0.0.Final.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/jboss/jandex/2.4.2.Final/jandex-2.4.2.Final.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/servlet/jakarta.servlet-api/6.1.0/jakarta.servlet-api-6.1.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/fasterxml/classmate/1.5.1/classmate-1.5.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/mysql/mysql-connector-j/8.0.33/mysql-connector-j-8.0.33.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/activation/jakarta.activation-api/2.0.1/jakarta.activation-api-2.0.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/jaxb-core/3.0.2/jaxb-core-3.0.2.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/glassfish/jaxb/jaxb-runtime/3.0.2/jaxb-runtime-3.0.2.jar"/>
+  <path value="C:/Users/1/.m2/repository/com/microsoft/sqlserver/mssql-jdbc/9.4.1.jre16/mssql-jdbc-9.4.1.jre16.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/sitemesh/sitemesh/3.2.1/sitemesh-3.2.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"/>
+  <path value="C:/Users/1/.m2/repository/jakarta/persistence/jakarta.persistence-api/3.0.0/jakarta.persistence-api-3.0.0.jar"/>
+  <path value="C:/Users/1/.m2/repository/net/bytebuddy/byte-buddy/1.12.8/byte-buddy-1.12.8.jar"/>
+ </paths>
+ <validation>
+  <el/>
+ </validation>
+ <aliases/>
+ <includes/>
+ <uris/>
+</kb-project>

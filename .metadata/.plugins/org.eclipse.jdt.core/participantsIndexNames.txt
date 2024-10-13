@@ -1,0 +1,15 @@
+INDEX VERSION 1.131
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1416165512.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1133572145.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3814830260.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2170733908.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1358434407.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2729774732.index
+\baiTap_tuan6_CRUD_API\src\main\java
+D:\BaiTapWebJPA_st4\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\927409956.index
+\baiTap_tuan6_CRUD_API\src\main\java
